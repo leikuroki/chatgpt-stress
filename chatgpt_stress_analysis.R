@@ -5,47 +5,6 @@ library("ggplot2")
 library("psych")
 library("effsize")
 
-#importing dataset
-data <- read.csv("/Users/leilanikuroki/Library/CloudStorage/OneDrive-個人用/Documents/AAA Wolverhampton Psy of Mental Health/Dissertation/Paper/data.csv")
-
-#cleaning and manipulating the data
-
-##removing unnecessary rows 
-datax = data[-c(1,2),]
-
-##keeping necessary columns
-datax = datax[, c("Finished","Q1","Q2","Q4","Q5","Q6","Q3.Randomized_DO", "UserLanguage")]
-
-##removing rows with missing data, i.e. responses that did not get to the last question
-datax <- datax %>% mutate(Q5 = na_if(Q5, ""))  # Convert empty strings to NA
-datax <- datax %>% mutate(Q5 = na_if(Q5, "NA"))  # Convert text "NA" to actual NA
-datax <- datax %>% filter(!is.na(Q5))
-
-##renaming columns
-datax <- datax %>%
-  rename(trust = "Q1")
-
-datax <- datax %>%
-  rename(pre = "Q2")
-
-datax <- datax %>%
-  rename(post = "Q4")
-
-datax <- datax %>%
-  rename(sat = "Q5")
-
-datax <- datax %>%
-  rename(group = "Q3.Randomized_DO")
-
-##extracting the numbers from mixed text
-datax <- datax %>% mutate_at(vars(trust, pre, post, sat), parse_number)
-
-##new column for the post intervention stress level result  
-datax$stress_diff <- datax$pre - datax$post
-
-#export the dataset (the github version of the dataset)
-write.csv(datax, file = "chatgpt_stress_data.csv")
-
 #exploring the data
 ##how many are in the treatment group and the control group?
 datax %>%
