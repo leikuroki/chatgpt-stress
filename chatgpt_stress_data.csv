@@ -1,0 +1,69 @@
+"","Finished","trust","pre","post","sat","Q6","group","UserLanguage","stress_diff"
+"1","True",7,7,4,7,"Very interesting","Treatment","EN",3
+"2","True",5,6,2,6,"","Treatment","JA",4
+"3","True",5,6,5,6,"","Treatment","JA",1
+"4","True",4,9,3,6,"","Control","JA",6
+"5","True",7,7,5,7,"","Control","EN",2
+"6","True",7,2,2,5,"","Control","JA",0
+"7","True",8,5,4,5,"修論がんばってね","Treatment","JA",1
+"8","True",7,8,4,9,"","Treatment","EN",4
+"9","True",5,7,3,8,"","Treatment","EN",4
+"10","True",7,8,5,5,"E-vision ","Treatment","EN",3
+"11","True",6,8,8,8,"","Control","EN",0
+"12","True",10,5,3,7,"","Control","EN",2
+"13","True",8,7,7,6,"","Treatment","EN",0
+"14","True",4,2,4,2,"","Treatment","EN",-2
+"15","True",7,5,4,6,"","Control","JA",1
+"16","True",8,8,6,9,"","Treatment","EN",2
+"17","False",8,7,7,7,"","Control","JA",0
+"18","True",7,8,6,6,"大変興味深い内容でした。また、何か協力出来る事があれば言ってください！","Control","JA",2
+"19","True",7,8,8,8,"","Control","EN",0
+"20","True",9,7,6,10,"","Control","EN",1
+"21","False",7,7,7,6,"I use chat gpt all the time. Sometimes I use it for counseling purposes. I share my anxiety and worries with chat gpt, and it will comfort me at times. ","Control","EN",0
+"22","False",6,6,5,6,"I thought we were going to ask ChatGPT about our particular situation and then give a survey response. If I understand the instructions, we were supposed to give a rating based on what chat GPT generated from the preset question. If I now understand correctly, this study is supposed to look at our trust and faith in the responses of chat GPT. I did go back and ask the bot about my personal situation and actually was quite pleased with the answer it generated.","Control","EN",1
+"23","False",5,7,5,8,"","Treatment","EN",2
+"24","False",0,4,4,5,"","Control","EN",0
+"25","True",0,7,0,9,"","Treatment","EN",7
+"26","True",6,8,8,4,"","Control","EN",0
+"27","False",8,8,5,10,"","Treatment","EN",3
+"28","False",7,8,4,8,"","Treatment","EN",4
+"29","False",7,7,3,8,"","Control","EN",4
+"30","False",5,5,7,6,"","Treatment","EN",-2
+"31","True",8,4,4,10,"","Control","EN",0
+"32","True",7,6,6,2,"","Treatment","EN",0
+"33","True",8,7,6,9,"","Treatment","EN",1
+"34","True",6,2,3,8,"","Control","EN",-1
+"35","True",10,3,3,10,"","Treatment","JA",0
+"36","False",6,8,7,6,"","Treatment","EN",1
+"37","True",7,4,2,9,"","Control","EN",2
+"38","True",8,4,0,9,"I was pleasently suprised with the helpfulness of chatgpt's ideas, I felt reasured and pleased","Treatment","EN",4
+"39","True",6,8,6,4,"","Control","EN",2
+"40","True",7,7,7,8,"","Treatment","EN",0
+"41","False",8,4,5,3,"","Treatment","EN",-1
+"42","True",5,7,5,7,"","Control","JA",2
+"43","False",6,4,4,6,"","Control","EN",0
+"44","True",7,6,5,7,"","Treatment","EN",1
+"45","True",5,4,4,10,"","Control","EN",0
+"46","True",7,8,7,8,"","Control","EN",1
+"47","True",7,6,4,8,"","Treatment","EN",2
+"48","True",7,7,7,9,"","Control","EN",0
+"49","True",7,6,0,7,"","Control","EN",6
+"50","True",8,9,8,10,"","Control","EN",1
+"51","True",5,10,7,6,"","Treatment","EN",3
+"52","True",6,8,8,6,"","Treatment","EN",0
+"53","True",4,4,3,3,"","Control","EN",1
+"54","True",6,8,7,8,"","Treatment","EN",1
+"55","True",6,4,5,6,"","Treatment","EN",-1
+"56","True",7,8,8,8,"","Control","EN",0
+"57","True",2,6,6,7,"","Treatment","EN",0
+"58","True",8,7,6,10,"","Control","EN",1
+"59","True",3,6,5,9,"","Control","EN",1
+"60","True",6,6,5,5,"Chat go does give a useful structure of how to fix problems but does not take into account outside factors ","Treatment","EN",1
+"61","True",7,7,5,6,"I'm grateful that ChatGPT provided me with various suggestions and methods for healing, which have been truly helpful to me.","Treatment","EN",2
+"62","False",8,8,8,9,"","Treatment","JA",0
+"63","False",3,6,5,6,"","Treatment","JA",1
+"64","False",6,10,9,8,"","Treatment","EN",1
+"65","False",8,7,7,10,"","Control","EN",0
+"66","False",3,9,6,9,"","Control","EN",3
+"67","False",8,8,6,9,"","Treatment","EN",2
+"68","False",5,5,7,2,"","Control","JA",-2
