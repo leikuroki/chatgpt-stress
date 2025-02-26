@@ -5,6 +5,9 @@ library("ggplot2")
 library("psych")
 library("effsize")
 
+#importing dataset
+data <- read.csv(...)
+
 #exploring the data
 ##how many are in the treatment group and the control group?
 datax %>%
